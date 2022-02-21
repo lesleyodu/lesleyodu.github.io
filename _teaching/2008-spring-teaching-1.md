@@ -3,7 +3,7 @@ title: "CS1110: Introduction to Computer Science"
 collection: teaching
 type: "Undergraduate teaching assistant"
 permalink: /teaching/2008-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Virginia, Department of Computer Science"
 date: 2008-01-01
 location: "Charlottesville, Virginia"
 ---
