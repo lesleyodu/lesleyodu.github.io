@@ -16,6 +16,8 @@ Spring 2010
 
 Esoteric programming languages are programming languages that are essentially written to test the bounds of programming, often as a joke. In this course, we will go through one programming language a week, including INTERCAL, LOLCODE, Chef, Whitespace, and more.
 
+Co-taught with Daniel Epstein
+
 PHP, Perl, and Regular Expressions
 ======
 Spring 2009
@@ -27,3 +29,5 @@ How to solve a Rubik's cube
 Spring 2008
 
 This short course covers Rubik's Cube theory and Competition. Participants will learn how to solve a rubik's cube through developing spacial recognition and reasoning, and problem solving.
+
+Co-taught with Saam Dilmaghani
