@@ -11,49 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Old Dominion University, 2024 (expected)
+  * M.S. in Computer Science
+* University of Virginia, 2011
+  * M.T. in Elementary Education
+  * B.A. in Mathematics, *with Distinction, Phi Beta Kappa*
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fairfax County Public Schools, 2013 - present
+* New Kent County Public Schools, 2011 - 2013
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Honors and Awards
+======
+* 2018, National Society of High School Scholars, Claes Nobel Educator of Distinction Award
+* 2009, UVa Computer Science Department, Louis T. Rader Outstanding Undergraduate Education Award
   
-Skills
+Skills and Certifications
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Virginia Postgraduate Professional Teaching License
+  * Endorsements: Computer Science, Mathematics, Elementary Education PreK–6
