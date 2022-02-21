@@ -8,7 +8,7 @@ date: 2016-09-01
 location: "McLean, Virginia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have been teaching high school computer science in Northern Virginia since fall 2016, and have taught a variety of courses through the Advanced Placement program that allow my students to earn college credit via exam.
 
 AP Computer Science A
 ======
