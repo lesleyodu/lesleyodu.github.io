@@ -1,7 +1,7 @@
 ---
 title: "Brown College Short Courses"
 collection: teaching
-type: "Short course"
+type: "Short course facilitator"
 permalink: /teaching/2008-spring-teaching-2
 venue: "University of Virginia, Brown College"
 date: 2008-01-01
@@ -16,7 +16,7 @@ Spring 2010
 
 Esoteric programming languages are programming languages that are essentially written to test the bounds of programming, often as a joke. In this course, we will go through one programming language a week, including INTERCAL, LOLCODE, Chef, Whitespace, and more.
 
-Co-taught with Daniel Epstein
+Co-taught with [Daniel Epstein](https://depstein.net/)
 
 PHP, Perl, and Regular Expressions
 ======
