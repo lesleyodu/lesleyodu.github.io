@@ -1,5 +1,5 @@
 ---
-title: "Brown College Short Courses"
+title: "INST 280: Brown College Short Courses"
 collection: teaching
 type: "Short course facilitator"
 permalink: /teaching/2008-spring-teaching-2
@@ -8,7 +8,7 @@ date: 2008-01-01
 location: "Charlottesville, Virginia"
 ---
 
-From 2008 - 2010, I taught short courses for Brown College at the University of Virginia.
+From 2008 - 2010, I taught one-credit short courses offered through Brown College at the University of Virginia.
 
 Esoteric Programming Languages
 ======
