@@ -1,5 +1,5 @@
 ---
-title: "CS1110: Introduction to Computer Science"
+title: "CS 1110: Introduction to Computer Science"
 collection: teaching
 type: "Undergraduate teaching assistant"
 permalink: /teaching/2008-spring-teaching-1
