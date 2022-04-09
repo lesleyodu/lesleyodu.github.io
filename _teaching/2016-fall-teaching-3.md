@@ -1,7 +1,7 @@
 ---
-title: "High School Computer Science"
+title: "High School Computer Science Courses"
 collection: teaching
-type: "High school course"
+type: "High school teacher"
 permalink: /teaching/2016-fall-teaching-3
 venue: "Fairfax County Public Schools"
 date: 2016-09-01
