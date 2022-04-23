@@ -14,7 +14,7 @@ of tenure track computer science professors. I used Vega-Lite and D3 to create m
 
 I used two data sets for this project. The first data set is the Integrated Postsecondary Education Data System, Completions, 1984-2011. This data
 set includes CS PhDs awarded per year per institution, by gender and is located at
-[https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx?year=2011&surveyNumber=3](nces.ed.gov), one file per year.
+[nces.ed.gov](https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx?year=2011&surveyNumber=3), one file per year.
 The second data set is the 2012 Computer Science Faculty Hiring Network (Tenure-Track). This data set includes
 CS tenure-track faculty, by gender, job title, alma mater name and region, employing institution name and region and is located at
-[https://www.science.org/doi/10.1126/sciadv.1400005](science.org). I used Wikidata to align the two data sets.
+[science.org](https://www.science.org/doi/10.1126/sciadv.1400005). I used Wikidata to align the two data sets.
