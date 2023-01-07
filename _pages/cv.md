@@ -17,10 +17,15 @@ Education
   * M.T. in Elementary Education
   * B.A. in Mathematics, *with Distinction, Phi Beta Kappa*
 
-Work experience
+Employment and Appointments
 ======
-* Fairfax County Public Schools, 2013 - present
-* New Kent County Public Schools, 2011 - 2013
+* Northern Virginia Community College
+  * Dual Enrollment Instructor, 2022 - present
+* Fairfax County Virginia Public Schools
+  * Computer Science Teacher, 2016 - present
+  * Mathematics Teacher, 2013 - 2016
+* New Kent County Virginia Public Schools
+  * Math Remediation Teacher, 2011 - 2013
 
 Honors and Awards
 ======
