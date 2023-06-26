@@ -11,10 +11,11 @@ redirect_from:
 
 Papers
 ======
-* Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "__Making Changes in Webpages Discoverable: A Change-Text Search Interface for Web Archives__," In _Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)_. June 2023. 
+* Lesley Frew, Michael L. Nelson, and Michele C. Weigle, "__Making Changes in Webpages Discoverable: A Change-Text Search Interface for Web Archives__," In _Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL)_. June 2023. ([arxiv pre-print](https://arxiv.org/abs/2305.00546))
 
 Blog Posts
 ======
+* [2023-05-31: Towards an Ethical Framework for Full-Text Search in Web Archives](https://ws-dl.blogspot.com/2023/05/2023-05-31-towards-ethical-framework.html)
 * [2023-02-26: Animating Changes in Webpages, Featuring George Santos's Biography](https://ws-dl.blogspot.com/2023/02/2023-02-26-animating-changes-in.html)
 * [2022-08-04: Web Archiving in Popular Media II: User Tasks of Journalists](https://ws-dl.blogspot.com/2022/08/2022-08-04-web-archiving-in-popular.html)
 * [2022-07-22: Summary of "Web Archiving and Search Personalized"](https://ws-dl.blogspot.com/2022/07/2022-07-22-summary-of-web-archiving-and.html)
@@ -25,4 +26,4 @@ Grant Project Participation
 ======
 * Equipping for Praxis: Advancing Computer Science Teachers Through Endorsement, 2022 - present
   * Practitioner Member, Research-Practitioner Partnership (RPP) team
-  * National Science Foundation Grant #2219770
+  * [National Science Foundation Grant #2219770](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2219770)
