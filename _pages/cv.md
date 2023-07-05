@@ -29,6 +29,7 @@ Employment and Appointments
 
 Honors and Awards
 ======
+* 2023, ACM/IEEE Joint Conference on Digital Libraries, Best Student Paper Award
 * 2018, National Society of High School Scholars, Claes Nobel Educator of Distinction Award
 * 2009, UVa Computer Science Department, Louis T. Rader Outstanding Undergraduate Education Award
   
