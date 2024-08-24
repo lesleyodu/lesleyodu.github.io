@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lesley Frew"
 title_separator          : "-"
 name                     : &name "Lesley Frew"
-description              : &description "CS teacher and student"
+description              : &description "PhD student in CS"
 url                      : https://lesleyodu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lesleyodu/lesleyodu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lesley Frew"
   avatar           : "lfrew.png"
-  bio              : "Computer science teacher and MS CS student at ODU"
+  bio              : "PhD student in CS at ODU"
   location         : "Virginia, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
