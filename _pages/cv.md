@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* Old Dominion University, 2024 (expected)
-  * M.S. in Computer Science
+* Old Dominion University
+  * Ph.D. in Computer Science, 2024 - present
+  * M.S. in Computer Science, 2024
 * University of Virginia, 2011
   * M.T. in Elementary Education
   * B.A. in Mathematics, *with Distinction, Phi Beta Kappa*
@@ -20,9 +21,9 @@ Education
 Employment and Appointments
 ======
 * Northern Virginia Community College
-  * Dual Enrollment Instructor (Courtesy Appointment), 2022 - present
+  * Dual Enrollment Instructor (Courtesy Appointment), 2022 - 2024
 * Fairfax County Virginia Public Schools
-  * Computer Science Teacher, 2016 - present
+  * Computer Science Teacher, 2016 - present (sabbatical 2024 - 2025)
   * Mathematics Teacher, 2013 - 2016
 * New Kent County Virginia Public Schools
   * Math Remediation Teacher, 2011 - 2013
