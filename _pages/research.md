@@ -18,6 +18,7 @@ Publications
 
 Conference Presentations
 ======
+* Lesley Frew, Michael L. Nelson, and Michele C. Weigle. "__Coming Back Differently: An Exploratory Case Study of Near Death Experiences of Webpages__." Presented at _ACM Hypertext Workshop on Web Archiving and Digital Libraries (WADL)_. September 2025. ([pre-print](https://wadlworkshop.github.io/2025/papers/WADL2025_paper_5496.pdf), [slides](https://docs.google.com/presentation/d/1HAZvmV1IIR7Lp2_L8Hw-lviF5SsEUiAN6Ykc4eUeelk/edit?usp=drive_link))
 * Lesley Frew, Michael L. Nelson, and Michele C. Weigle. "__Temporally Extending Existing Web Archive Collections for Longitudinal Analysis__." Presented at _Research Infrastructure for the Study of Archived Web Materials (RESAW)_. June 2025. ([arxiv pre-print](https://arxiv.org/abs/2505.24091), [slides](https://docs.google.com/presentation/d/16h76RtmIxyezdM_wDxYahnzqCIRnHEnnN9qRxoA-SJk/edit?usp=sharing))
 * Lesley Frew and Michele C. Weigle. "__US Computer Science Faculty Pipeline Dashboard__." Presented at _ACM Capital Region Celebration of Women in Computing (CAPWIC)_. March 2025. ([dashboard](https://observablehq.com/d/01313a4a164aeb21))
 * Lesley Frew, Michael L. Nelson, and Michele C. Weigle. "__Information Retrieval Needs in Climate Impact from Federal Environmental Webpages__." Presented at _ACM SIGIR Workshop on Information Retrieval for Climate Impact_. July 2024. ([workshop arxiv pre-print](https://arxiv.org/abs/2504.01162))
@@ -33,6 +34,7 @@ Blog Posts
   * [2023-02-26: Animating Changes in Webpages, Featuring George Santos's Biography](https://ws-dl.blogspot.com/2023/02/2023-02-26-animating-changes-in.html)
   * [2022-08-04: Web Archiving in Popular Media II: User Tasks of Journalists](https://ws-dl.blogspot.com/2022/08/2022-08-04-web-archiving-in-popular.html)
 * Trip reports
+  * [2025-06-17: The 6th Research Infrastructures for the Study of Archived Web Materials (RESAW) Conference Trip Report](https://ws-dl.blogspot.com/2025/06/2025-06-17-6th-research-infrastructures.html)
   * [2025-05-12: ACM Capital Region Celebration of Women in Computing (CAPWIC) 2025 Trip Report](https://ws-dl.blogspot.com/2025/05/2025-05-12-acm-capital-region.html)
   * [2025-01-06: 9th Computational Archival Science Workshop Trip Report](https://ws-dl.blogspot.com/2025/01/2025-01-06-9th-computational-archival.html)
   * [2024-11-15: The 33rd ACM International Conference on Information and Knowledge Management (CIKM) 2024 Trip Report](https://ws-dl.blogspot.com/2024/11/2024-11-15-33rd-acm-international.html)
@@ -46,7 +48,8 @@ Blog Posts
 
 Grant Project Participation
 ======
-* Equipping for Praxis: Advancing Computer Science Teachers Through Endorsement, 2022 - present
+* Equipping for Praxis: Advancing Computer Science Teachers Through Endorsement, 2022 - 2025
   * Practitioner Member, Research-Practitioner Partnership (RPP) team
   * [National Science Foundation Grant #2219770](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2219770)
+  * Jon Stapleton, Chris Mayfield, Lesley Frew, et al. "__Praxis Prep: Supporting Secondary Career & Technical Education Teachers Pursuing CS Licensure__." In _Proceedings of ACM Technical Symposium on Computer Science Education (SIGCSE)_. February 2026.
   * Lesley Frew, Shelita Hodges, Ebonie Campbell, Debra Bernstein, and Chris Mayfield. "__Developing High School CS Teacher Identity: A Longitudinal, Mixed-Methods Study of CTE Teachers__." In _Proceedings of ACM Conference on International Computing Education Research (ICER)_. August 2025.
