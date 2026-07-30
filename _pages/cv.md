@@ -21,9 +21,9 @@ Education
 Employment and Appointments
 ======
 * Northern Virginia Community College
-  * Dual Enrollment Instructor (Courtesy Appointment), 2022 - 2024
+  * Dual Enrollment Instructor (Courtesy Appointment), 2022 - present
 * Fairfax County Virginia Public Schools
-  * Computer Science Teacher, 2016 - present (sabbatical 2024 - 2025)
+  * Computer Science Teacher, 2016 - present
   * Mathematics Teacher, 2013 - 2016
 * New Kent County Virginia Public Schools
   * Math Remediation Teacher, 2011 - 2013
