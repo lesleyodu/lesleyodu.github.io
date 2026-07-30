@@ -21,11 +21,13 @@ Conference Presentations
 * Lesley Frew, Michael L. Nelson, and Michele C. Weigle. "__Coming Back Differently: An Exploratory Case Study of Near Death Experiences of Webpages__." Presented at _ACM Hypertext Workshop on Web Archiving and Digital Libraries (WADL)_. September 2025. ([pre-print](https://wadlworkshop.github.io/2025/papers/WADL2025_paper_5496.pdf), [slides](https://docs.google.com/presentation/d/1HAZvmV1IIR7Lp2_L8Hw-lviF5SsEUiAN6Ykc4eUeelk/edit?usp=drive_link))
 * Lesley Frew, Michael L. Nelson, and Michele C. Weigle. "__Temporally Extending Existing Web Archive Collections for Longitudinal Analysis__." Presented at _Research Infrastructure for the Study of Archived Web Materials (RESAW)_. June 2025. ([arxiv pre-print](https://arxiv.org/abs/2505.24091), [slides](https://docs.google.com/presentation/d/16h76RtmIxyezdM_wDxYahnzqCIRnHEnnN9qRxoA-SJk/edit?usp=sharing))
 * Lesley Frew and Michele C. Weigle. "__US Computer Science Faculty Pipeline Dashboard__." Presented at _ACM Capital Region Celebration of Women in Computing (CAPWIC)_. March 2025. ([dashboard](https://observablehq.com/d/01313a4a164aeb21))
-* Lesley Frew, Michael L. Nelson, and Michele C. Weigle. "__Information Retrieval Needs in Climate Impact from Federal Environmental Webpages__." Presented at _ACM SIGIR Workshop on Information Retrieval for Climate Impact_. July 2024. ([workshop arxiv pre-print](https://arxiv.org/abs/2504.01162))
+* Lesley Frew, Michael L. Nelson, and Michele C. Weigle. "__Information Retrieval Needs in Climate Impact from Federal Environmental Webpages__." Presented at _ACM SIGIR Workshop on Information Retrieval for Climate Impact_. July 2024. ([workshop arxiv pre-print](https://arxiv.org/abs/2504.01162), [SIGIR Forum report](https://doi.org/10.1145/3769733.376973))
 
 Blog Posts
 ======
 * Dissertation Research
+  * [2026-04-21: Was Snopes.com making silent updates to its articles before 2021? \[Rating: TRUE\]](https://ws-dl.blogspot.com/2026/04/2026-04-21-was-snopescom-making-silent.html)
+  * [2026-02-03: Detecting and reconstructing trustworthy edit histories using web archives](https://ws-dl.blogspot.com/2026/02/2026-02-03-detecting-and-reconstructing.html) 
   * [2025-03-27: Establishing a Baseline by Administration for the Takedown of US Government Webpages using Web Archives](https://ws-dl.blogspot.com/2025/03/2025-03-27-establishing-baseline-by.html)
 * Thesis Research
   * [2024-10-02: MS Thesis: Surfacing Text Changes in Archived Webpages](https://ws-dl.blogspot.com/2024/10/2024-10-02-ms-thesis-surfacing-text.html)
